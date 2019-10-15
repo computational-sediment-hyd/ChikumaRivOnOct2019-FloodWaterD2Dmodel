@@ -14,6 +14,8 @@ https://computational-sediment-hyd.github.io/ChikumaRivOnOct2019-FloodWaterD2Dmo
 
 ![demo](/anim.gif)
 
+ - html
+
 https://computational-sediment-hyd.github.io/ChikumaRivOnOct2019-FloodWaterD2Dmodel/20hour.html
 
 ### detail : depth and velocity vector(zoom level control is available)
@@ -34,7 +36,7 @@ https://computational-sediment-hyd.github.io/ChikumaRivOnOct2019-FloodWaterD2Dmo
 
 https://computational-sediment-hyd.github.io/ChikumaRivOnOct2019-FloodWaterD2Dmodel/6hour.html
 
-### 10 hours after dike break
+ - 10 hours after dike break
 
 https://computational-sediment-hyd.github.io/ChikumaRivOnOct2019-FloodWaterD2Dmodel/10hour.html
 
